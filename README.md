@@ -21,11 +21,8 @@ Com isso os códigos estarão dividos de acordo com os módulos propostos durant
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação:
 
-- Visual Studio 2013 ou 2015
+- Visual Studio 2017
 - nUnit Adaptador
-- ReSharper 
-
-
-(documentação em desenvolvimento....)
+- ReSharper
 
 
