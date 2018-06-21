@@ -9,7 +9,8 @@ namespace Calculadora.Tests
         [Test]
         public void DeveAdicionarDoisNumeros()
         {
-            //SUT
+            //SUT - System Under Test
+
             var sut = new CalculadoraSimples();
 
             var resultado = sut.Adicionar(5, 5);

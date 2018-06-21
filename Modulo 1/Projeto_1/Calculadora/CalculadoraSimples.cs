@@ -20,10 +20,11 @@
 
         public int Dividir(int num1, int num2)
         {
-            return num1/num2;
+            return num1 / num2;
         }
 
         /* Método para Diminuir 2 números */
+
         public int Diminuir(int num1, int num2)
         {
             return num1 - num2;
